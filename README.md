@@ -17,7 +17,7 @@ O Spark é amplamente utilizado em projetos analíticos nas seguintes frentes:
 
 PySpark é uma interface para Apache Spark em Python. Ele não apenas permite que você escreva aplicativos Spark usando APIs Python, mas também fornece o *shell* PySpark para analisar interativamente seus dados em um ambiente distribuído. O PySpark oferece suporte à maioria dos recursos do Spark, como Spark SQL, DataFrame, Streaming, MLlib (Machine Learning) e Spark Core.
 
-<center><img src="img-001.png"/></center>
+<center><img src="https://github.com/jurodriguesc/alura_spark/blob/806e858991251da5d3a2a1459eb42e1be4ba8e89/img-001.png"/></center>
 
 #### Spark SQL e DataFrame
 
